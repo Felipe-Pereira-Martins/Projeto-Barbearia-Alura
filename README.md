@@ -3,11 +3,11 @@
 - Primeiro projeto feito na plataforma da Alura, com as aulas ministradas pelo professor Pedro Marins.
 - Conhecendo as tecnologias Html5 e Css3.
 
-# Sobre o Projeto <a name="id02"></a>
+# Sobre o Projeto 💻 <a name="id02"></a>
 - Criamos um site para uma empresa ficticia, no caso a Barbearia Alura, no qual desenvolvemos as páginas home, produtos e contatos. 
 - Ficando disponivel para o layout mobile e desktop, pela responsividade. 
 
-# Tecnologias Utilizadas <a name="id02"></a>
+# Tecnologias Utilizadas 👩‍💻<a name="id02"></a>
 - HTML 
 - CSS.
 
@@ -21,13 +21,13 @@
 - Adionamos um video como conteúdo complementar.
 - Criamos o footer com uma logo e adicionamos o copyright.
 
-# Página Produto <a name="id02"></a>
+# Página Produto  <a name="id02"></a>
 - Mantive a base do header e footer do projeto.
 - (Catálogo de Produtos) = Desenvolvemos essa página, para apresentar os serviços oferecidos pela empresa, no caso Cabelo, barba e combo cabelo + barba).
 - Desenvolvemos uma pequena descrição com o preço dos produtos.
 - Efeito ao passar o mouse sobre o catálogo de produtos 
 
-# Página Contato <a name="id02"></a> 
+# Página Contato  <a name="id02"></a> 
 - Desenvolvemos um formulário para o cadastro dos clientes, para agendar o dia do atendimento.
 - Formulário de cadastro incluindo: Nome, sobrenome, email, telefone e mensagem.
 - Diferentes maneiras disponivel para entrarmos em contato.
