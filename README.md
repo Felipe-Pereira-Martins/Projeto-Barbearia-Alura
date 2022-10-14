@@ -22,23 +22,14 @@
 - Criamos o footer com uma logo e adicionamos o copyright.
 
 # Página Produto <a name="id02"></a>
-- 
+- Mantive a base do header e footer do projeto.
+- (Catálogo de Produtos) = Desenvolvemos essa página, para apresentar os serviços oferecidos pela empresa, no caso Cabelo, barba e combo cabelo + barba).
+- Desenvolvemos uma pequena descrição com o preço dos produtos.
+- Efeito ao passar o mouse sobre o catálogo de produtos 
 
-# Desenvolvimento do Projeto <a name="id02"></a> 
-- Projeto foi disponibilizado pela plataforma do Figma. 
+# Página Contato <a name="id02"></a> 
+- Desenvolvemos um formulário para o cadastro dos clientes, para agendar o dia do atendimento.
+- Formulário de cadastro tendo: Nome, sobrenome, email, telefone e mensagem.
+- Diferentes maneiras disponivel para entrarmos em contato.
+- Final do formulário possui os dias e horas do atendimento.
 
-- Desenvolver para o layout Web 1728, layout Tablet 1028 smartphomne 485. 
-
-- Criação do Menu-Hamburguer, somente com HTMl e CSS, sem o uso de JavaScript. 
-
-- Utilizamos o FlexBox.
-
-- Projeto desenvolvido, para trabalhar com a responsividade web para smartphone, Tablet e desktop.
-- Site de Vendas de Livro da AluraBooks.
-
-# Conclusão do Projeto <a name="id02"></a>
-- Ao final do projeto os usuários iram conseguir utilizar a página da AluraBooks no Smartphone, Tablet e Desktop.
-
-# Tecnologias utilizadas <a name="id06"></a>
-- HTML5
-- CS
