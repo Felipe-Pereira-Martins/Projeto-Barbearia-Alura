@@ -29,7 +29,7 @@
 
 # Página Contato <a name="id02"></a> 
 - Desenvolvemos um formulário para o cadastro dos clientes, para agendar o dia do atendimento.
-- Formulário de cadastro tendo: Nome, sobrenome, email, telefone e mensagem.
+- Formulário de cadastro incluindo: Nome, sobrenome, email, telefone e mensagem.
 - Diferentes maneiras disponivel para entrarmos em contato.
 - Final do formulário possui os dias e horas do atendimento.
 
